@@ -30,10 +30,10 @@ function App() {
               <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
               <div class="navbar-nav">
                   <a class="nav-link active" aria-current="page" href="/">Home</a>
-                  <a class="nav-link" href="/projects">Projects</a>
+                  <a class="nav-link" href="/Rifqizhafar.github.io/projects">Projects</a>
                   <a class="nav-link" href="#" onClick={() => {setIsOpen(!isOpen)}}>Contact</a>
                   <a class="nav-link" href="#"><button className='btn-nb'><a href='https://drive.google.com/file/d/1l-iKz77xfB0wu1QCLfo8WC6Zvw-K-05p/view?usp=sharing' target='_blank'>Download CV</a></button></a>
-                  <a class="nav-link" href="/quotes">Need Quotes?</a>
+                  <a class="nav-link" href="/Rifqizhafar.github.io/quotes">Need Quotes?</a>
               </div>
               </div>
           </div>
