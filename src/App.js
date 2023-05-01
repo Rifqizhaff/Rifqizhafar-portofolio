@@ -43,9 +43,9 @@ function App() {
         : null
       }
         <Routes>
-          <Route index path='/' element={<Homepage/>} />
-          <Route path='/projects' element={<Project/>} />
-          <Route path='/quotes' element={<Quote/>} />
+          <Route path='/Rifqizhafar.github.io/' element={<Homepage/>} />
+          <Route path='/Rifqizhafar.github.io/projects' element={<Project/>} />
+          <Route path='/Rifqizhafar.github.io/quotes' element={<Quote/>} />
         </Routes>
       </main>
     </Router>
