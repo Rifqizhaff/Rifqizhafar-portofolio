@@ -43,7 +43,7 @@ function App() {
         : null
       }
         <Routes>
-          <Route path='/' element={<Homepage/>} />
+          <Route index path='/' element={<Homepage/>} />
           <Route path='/projects' element={<Project/>} />
           <Route path='/quotes' element={<Quote/>} />
         </Routes>
