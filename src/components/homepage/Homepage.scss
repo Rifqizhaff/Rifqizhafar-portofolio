@@ -1,0 +1,89 @@
+
+.navbar{
+    .container-fluid{
+        .navbar-brand{
+            color: #E07D54;
+        }
+        .collapse {
+            justify-content: center;
+        }
+        .navbar-nav{
+            justify-content: center;
+            align-items: center;
+
+            .nav-link{
+                font-family: 'Inter', sans-serif;
+                color: #FAFAFA;
+            }
+            .btn-nb{
+                font-size: 12px;
+                padding: 8px;
+                border-style: solid;
+                border-color: #FAFAFA;
+                background-color: rgb(255, 0, 0, 0);
+                border-radius: 12px;
+                color: #FAFAFA;
+                a{
+                    margin-bottom: 0;
+                    text-decoration: none;
+                    color: #FAFAFA;
+                }
+            }
+        }
+    }
+}
+.homepage{
+    padding: 0 180px;
+}
+.body{
+    .container{
+        .content{
+            margin-top: 52px;
+            .image-profile{
+                margin-bottom: 48px;
+                padding-left: 180px;
+                display: flex;
+                color: white;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+                .arr{
+                    width: 180px;
+                    transform: rotate(-15deg);
+                    padding-bottom: 120px;
+                }
+            }
+            .text-over{
+                color: #FAFAFA;
+                font-family: 'Inter', sans-serif;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+                .title{
+                    font-size: 42px;
+                    margin: 0 0 12px 0;
+                }
+                .desc{
+                    font-size: 16px;
+                    color: #5CCED6;
+                    margin: 0 0 24px 0;
+                }
+                .btn-cst{
+                    padding: 12px;
+                    border-style: solid;
+                    border-color: #FAFAFA;
+                    background-color: rgb(255, 0, 0, 0);
+                    border-radius: 12px;
+                    color: #FAFAFA;
+                    margin-bottom: 24px;
+                    a{
+                        text-decoration: none;
+                        color: #FAFAFA;
+                    }
+                }
+                .socmed{
+                }
+            }
+        }
+    }
+}

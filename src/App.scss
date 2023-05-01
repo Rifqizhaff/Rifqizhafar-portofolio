@@ -1,0 +1,31 @@
+.navbar{
+    .container-fluid{
+        .navbar-brand{
+            color: #E07D54;
+        }
+        .collapse {
+            justify-content: center;
+        }
+        .navbar-nav{
+            justify-content: center;
+            align-items: center;
+
+            .nav-link{
+                font-family: 'Inter', sans-serif;
+                color: #FAFAFA;
+            }
+            .btn-nb{
+                font-size: 12px;
+                padding: 8px;
+                border-style: solid;
+                border-color: #FAFAFA;
+                background-color: rgb(255, 0, 0, 0);
+                border-radius: 12px;
+                color: #FAFAFA;
+                a{
+                    margin-bottom: 0;
+                }
+            }
+        }
+    }
+}

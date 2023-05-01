@@ -1,0 +1,52 @@
+.contact{
+    // background-color: rgb(0, 0, 0, );
+    .bg-wrapper{
+        height: 100%;
+        width: 100%;
+        position: absolute;
+        background-color: rgb(37, 37, 39, 0.88);
+        z-index: 1;
+        .container-fluid{
+            background-color: #313135;
+            color: #fafafa;
+            width: 35%;
+            height: auto;
+            padding: 24px;
+            position: fixed;
+            top: 20%;
+            left: 33%;
+            border-radius: 12px;
+            z-index: 1;
+            .page-title{
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+                display: flex;
+                justify-content: space-between;
+                padding-bottom: 24px;
+                .title-1{
+                float: left;
+                }
+                .close-tag{
+                float: right;
+                button{
+                    border-style: solid;
+                    border-color: #313135;
+                    background-color: rgb(255, 0, 0, 0);
+                    border-radius: 12px;
+                    font-size: 18px;
+                    color: #fafafa;
+                }
+                }
+            }
+            .list-project{
+                .col{
+                    a{
+                        // text-decoration: none;
+                        color: #fafafa;
+                    }
+                }
+            }
+        }
+    }
+}
