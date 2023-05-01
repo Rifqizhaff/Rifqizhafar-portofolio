@@ -44,8 +44,8 @@ function App() {
       }
         <Routes>
           <Route path='/Rifqizhafar.github.io/' element={<Homepage/>} />
-          <Route path='/Rifqizhafar.github.io/projects' element={<Project/>} />
-          <Route path='/Rifqizhafar.github.io/quotes' element={<Quote/>} />
+          <Route path='/Rifqizhafar.github.io/projects/' element={<Project/>} />
+          <Route path='/Rifqizhafar.github.io/quotes/' element={<Quote/>} />
         </Routes>
       </main>
     </Router>
