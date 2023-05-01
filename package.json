@@ -1,7 +1,7 @@
 {
   "name": "rifqi-web-portofolio",
   "version": "0.1.0",
-  "homepage": "https://rifqizhaff.github.io/Rifqizhafar.github.io/",
+  "homepage": "https://rifqizhaff.github.io",
   "private": true,
   "dependencies": {
     "@ant-design/icons": "^5.0.1",
