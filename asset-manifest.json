@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Rifqizhafar.github.io/static/css/main.6744121a.css",
-    "main.js": "/Rifqizhafar.github.io/static/js/main.3df99d36.js",
+    "main.js": "/Rifqizhafar.github.io/static/js/main.19bfe711.js",
     "static/js/787.98fc6ab5.chunk.js": "/Rifqizhafar.github.io/static/js/787.98fc6ab5.chunk.js",
     "static/media/port-smpn61.png": "/Rifqizhafar.github.io/static/media/port-smpn61.9395b742c08ba091d048.png",
     "static/media/Group 3.png": "/Rifqizhafar.github.io/static/media/Group 3.f5d1eff59d6ef4b54476.png",
@@ -10,11 +10,11 @@
     "static/media/logo.svg": "/Rifqizhafar.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Rifqizhafar.github.io/index.html",
     "main.6744121a.css.map": "/Rifqizhafar.github.io/static/css/main.6744121a.css.map",
-    "main.3df99d36.js.map": "/Rifqizhafar.github.io/static/js/main.3df99d36.js.map",
+    "main.19bfe711.js.map": "/Rifqizhafar.github.io/static/js/main.19bfe711.js.map",
     "787.98fc6ab5.chunk.js.map": "/Rifqizhafar.github.io/static/js/787.98fc6ab5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6744121a.css",
-    "static/js/main.3df99d36.js"
+    "static/js/main.19bfe711.js"
   ]
 }
