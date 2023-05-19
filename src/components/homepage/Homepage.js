@@ -20,7 +20,7 @@ const Homepage = () => {
                             </div>
                             <div className='text-over'>
                                 <p className='title text-3xl font-bold underline'>Hello, I'm Rifqi! 👋</p>
-                                <p className='desc'>Front-End Website Developer and noodle lovers based in Jakarta, Indonesia!</p>
+                                <p className='desc'>Front-End Website Developer based in Jakarta, Indonesia!</p>
                                 <button type='button' className='btn-cst'>
                                     <a href='/projects'>
                                         See My Project!

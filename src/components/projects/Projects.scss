@@ -35,9 +35,15 @@
                         }
                         .project-title{
                             color: #252527;
+                            font-weight: 600;
                         }
                         .project-desc{
                             color: #252527;
+                            text-align: justify;
+                            font-weight: 400;
+                        }
+                        .project-skills{
+                            color: #767678;
                             text-align: justify;
                         }
                         img{
@@ -48,6 +54,10 @@
                             border-style: solid;
                             border-color: #252527;
                             background-color: #fafafa;
+                            a{
+                                text-decoration: none;
+                                color: #252527;
+                            }
                         }
                     }
                 }
